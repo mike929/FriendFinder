@@ -1,0 +1,5 @@
+.jumbotron {
+    background-image: url("./friends.png");
+    background-repeat: no-repeat, repeat;
+    text-align: center;
+}
