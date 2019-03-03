@@ -16,4 +16,4 @@ https://shielded-plateau-95209.herokuapp.com/
 https://mike929.github.io/Portfolio/
 
 
-![](friendFinder.gif)
+![Example](assets/images/friendFinder.gif)
